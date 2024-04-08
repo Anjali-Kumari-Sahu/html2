@@ -1,2 +1,3 @@
 # html2
-This is my frist GitRepository
+This is my first GitRepository.
+Auther-Anjali Sahu
